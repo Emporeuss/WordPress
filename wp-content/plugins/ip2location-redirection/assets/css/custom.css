@@ -1,0 +1,8 @@
+.chosen-container-single .chosen-single{border-radius:0;height:35px;line-height:30px}
+.chosen-container-single .chosen-single div b{margin-top:5px}
+
+.dashicons.spin{animation:dashicons-spin 1s infinite;animation-timing-function:linear}
+@keyframes dashicons-spin {
+	0%{transform:rotate(0deg)}
+	100%{transform:rotate(360deg)}
+}

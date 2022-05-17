@@ -1,0 +1,508 @@
+[19-Aug-2021 06:44:46 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 06:44:46 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 06:44:46 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 06:44:46 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 06:44:46 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 21:21:14 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 21:21:14 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 21:21:14 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 21:21:14 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Aug-2021 21:21:14 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Aug-2021 22:00:44 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Aug-2021 22:00:44 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Aug-2021 22:00:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Aug-2021 22:00:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Aug-2021 22:00:44 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 13:22:26 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 13:22:26 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 13:22:26 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 13:22:26 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 13:22:26 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 15:11:52 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 15:11:52 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 15:11:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 15:11:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Aug-2021 15:11:52 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Nov-2021 00:19:09 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Nov-2021 00:19:09 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Nov-2021 00:19:09 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Nov-2021 00:19:09 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Nov-2021 00:19:09 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[03-Nov-2021 06:30:43 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[03-Nov-2021 06:30:43 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[03-Nov-2021 06:30:43 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[03-Nov-2021 06:30:43 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[03-Nov-2021 06:30:43 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[05-Nov-2021 14:04:39 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[05-Nov-2021 14:04:39 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[05-Nov-2021 14:04:39 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[05-Nov-2021 14:04:39 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[05-Nov-2021 14:04:39 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[06-Nov-2021 08:54:29 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[06-Nov-2021 08:54:29 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[06-Nov-2021 08:54:29 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[06-Nov-2021 08:54:29 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[06-Nov-2021 08:54:29 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:05:12 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:05:12 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:05:12 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:05:12 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:05:12 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:50:05 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:50:05 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:50:05 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:50:05 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Nov-2021 13:50:05 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Nov-2021 03:27:22 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Nov-2021 03:27:22 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Nov-2021 03:27:22 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Nov-2021 03:27:22 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Nov-2021 03:27:22 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Nov-2021 15:20:38 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Nov-2021 15:20:38 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Nov-2021 15:20:38 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Nov-2021 15:20:38 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Nov-2021 15:20:38 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 00:08:43 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 00:08:43 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 00:08:43 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 00:08:43 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 00:08:43 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 01:03:14 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 01:03:14 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 01:03:14 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 01:03:14 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Nov-2021 01:03:14 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 09:36:06 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 09:36:06 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 09:36:06 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 09:36:06 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 09:36:06 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 12:23:27 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 12:23:27 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 12:23:27 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 12:23:27 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 12:23:27 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 15:30:35 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 15:30:35 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 15:30:35 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 15:30:35 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Nov-2021 15:30:35 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Nov-2021 22:34:44 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Nov-2021 22:34:44 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Nov-2021 22:34:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Nov-2021 22:34:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Nov-2021 22:34:44 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 13:51:44 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 13:51:44 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 13:51:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 13:51:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 13:51:44 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 21:09:02 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 21:09:02 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 21:09:02 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 21:09:02 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[17-Nov-2021 21:09:02 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[18-Nov-2021 00:38:23 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[18-Nov-2021 00:38:23 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[18-Nov-2021 00:38:23 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[18-Nov-2021 00:38:23 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[18-Nov-2021 00:38:23 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Nov-2021 21:29:46 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Nov-2021 21:29:46 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Nov-2021 21:29:46 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Nov-2021 21:29:46 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Nov-2021 21:29:46 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[21-Nov-2021 23:25:21 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[21-Nov-2021 23:25:21 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[21-Nov-2021 23:25:21 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[21-Nov-2021 23:25:21 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[21-Nov-2021 23:25:21 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Nov-2021 02:02:22 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Nov-2021 02:02:22 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Nov-2021 02:02:22 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Nov-2021 02:02:22 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Nov-2021 02:02:22 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[25-Nov-2021 19:35:53 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[25-Nov-2021 19:35:53 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[25-Nov-2021 19:35:53 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[25-Nov-2021 19:35:53 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[25-Nov-2021 19:35:53 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[26-Nov-2021 17:40:24 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[26-Nov-2021 17:40:24 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[26-Nov-2021 17:40:24 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[26-Nov-2021 17:40:24 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[26-Nov-2021 17:40:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Nov-2021 22:52:30 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Nov-2021 22:52:30 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Nov-2021 22:52:30 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Nov-2021 22:52:30 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Nov-2021 22:52:30 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 13:49:34 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 13:49:34 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 13:49:34 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 13:49:34 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 13:49:34 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 15:50:47 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 15:50:47 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 15:50:47 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 15:50:47 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Nov-2021 15:50:47 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 02:09:44 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 02:09:44 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 02:09:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 02:09:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 02:09:44 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 12:30:52 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 12:30:52 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 12:30:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 12:30:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Nov-2021 12:30:52 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 10:37:36 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 10:37:36 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 10:37:36 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 10:37:36 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 10:37:36 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 12:55:16 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 12:55:16 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 12:55:16 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 12:55:16 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[30-Nov-2021 12:55:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 17:36:20 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 17:36:20 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 17:36:20 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 17:36:20 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 17:36:20 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 20:07:28 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 20:07:28 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 20:07:28 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 20:07:28 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Dec-2021 20:07:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[04-Dec-2021 12:48:07 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[04-Dec-2021 12:48:07 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[04-Dec-2021 12:48:07 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[04-Dec-2021 12:48:07 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[04-Dec-2021 12:48:07 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 00:02:51 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 00:02:51 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 00:02:51 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 00:02:51 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 00:02:51 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 07:45:44 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 07:45:44 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 07:45:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 07:45:44 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Dec-2021 07:45:44 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 16:52:50 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 16:52:50 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 16:52:50 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 16:52:50 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 16:52:50 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 19:39:52 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 19:39:52 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 19:39:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 19:39:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Dec-2021 19:39:52 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 06:10:01 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 06:10:01 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 06:10:01 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 06:10:01 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 06:10:01 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 17:36:52 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 17:36:52 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 17:36:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 17:36:52 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 17:36:52 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 20:27:07 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 20:27:07 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 20:27:07 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 20:27:07 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Dec-2021 20:27:07 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Dec-2021 07:06:28 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Dec-2021 07:06:28 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Dec-2021 07:06:28 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Dec-2021 07:06:28 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Dec-2021 07:06:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 16:14:53 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 16:14:53 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 16:14:53 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 16:14:53 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 16:14:53 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 22:21:41 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 22:21:41 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 22:21:41 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 22:21:41 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[14-Dec-2021 22:21:41 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Dec-2021 05:33:34 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Dec-2021 05:33:34 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Dec-2021 05:33:34 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Dec-2021 05:33:34 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Dec-2021 05:33:34 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 16:27:24 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 16:27:24 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 16:27:24 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 16:27:24 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 16:27:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 20:20:19 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 20:20:20 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 20:20:20 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 20:20:20 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Dec-2021 20:20:20 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 06:25:38 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 06:25:38 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 06:25:38 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 06:25:38 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 06:25:38 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 12:10:13 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 12:10:13 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 12:10:13 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 12:10:13 America/New_York] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 12:10:13 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Dec-2021 20:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Dec-2021 23:37:55 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Dec-2021 22:43:40 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Dec-2021 03:35:59 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[28-Dec-2021 13:02:45 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Dec-2021 04:51:27 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Jan-2022 10:26:11 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Jan-2022 23:53:00 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[03-Jan-2022 21:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[04-Jan-2022 01:39:52 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[06-Jan-2022 06:48:24 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Jan-2022 17:07:43 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Jan-2022 17:50:53 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Jan-2022 14:19:24 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Jan-2022 16:13:08 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Jan-2022 14:36:02 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Jan-2022 12:43:00 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[16-Jan-2022 06:11:52 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Feb-2022 13:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Feb-2022 06:51:30 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Feb-2022 21:18:37 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[20-Feb-2022 13:10:25 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Feb-2022 14:07:42 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Feb-2022 22:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Feb-2022 17:09:39 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[23-Feb-2022 20:29:52 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[24-Feb-2022 06:00:30 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[25-Feb-2022 18:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Feb-2022 12:35:40 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Mar-2022 04:30:16 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[02-Mar-2022 20:00:01 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[06-Mar-2022 08:57:27 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Mar-2022 10:46:25 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Mar-2022 10:55:31 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Mar-2022 18:06:10 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[09-Mar-2022 15:59:19 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Mar-2022 17:41:27 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Mar-2022 08:31:04 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Mar-2022 10:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[12-Mar-2022 21:36:31 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Mar-2022 01:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[13-Mar-2022 01:50:02 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Mar-2022 09:18:22 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[15-Mar-2022 20:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[21-Mar-2022 21:38:01 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[26-Mar-2022 02:24:31 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Mar-2022 03:40:59 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[27-Mar-2022 15:01:12 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[31-Mar-2022 12:17:21 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-Apr-2022 05:42:01 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Apr-2022 12:21:10 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[07-Apr-2022 21:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Apr-2022 04:29:35 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Apr-2022 07:12:08 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[08-Apr-2022 10:24:27 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[10-Apr-2022 18:42:24 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[11-Apr-2022 07:02:47 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[16-Apr-2022 23:34:19 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[19-Apr-2022 22:47:13 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[22-Apr-2022 22:20:28 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[29-Apr-2022 16:12:35 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9
+[01-May-2022 01:41:31 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/emporeuss/public_html/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/emporeuss/public_html/wp-includes/blocks/index.php on line 9

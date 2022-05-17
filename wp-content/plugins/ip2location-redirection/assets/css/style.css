@@ -1,0 +1,15 @@
+.dashicons-admin-ip2location{background-image:url("../img/icon.png");background-repeat:no-repeat;background-position:50% 50%}
+#ip2location-download-progress{display:none}
+.loading-admin-ip2location{background-image:url("../img/loading.gif");background-repeat:no-repeat;background-position:50% 50%;display:inline-block;width:24px;height:24px;transform:translateY(+25%)}
+.wp-list-table thead tr th{padding-left:10px}
+.wp-list-table tbody tr td{vertical-align:text-top}
+.button-add-rule{background-image:url("../img/add.png");background-repeat:no-repeat;background-position:50% 50%;display:inline-block;width:16px;height:16px}
+.button-remove-rule{background-image:url("../img/delete.png");background-repeat:no-repeat;background-position:50% 50%;display:inline-block;width:16px;height:16px}
+.url-container,.domain-container,.wpml-container{padding:5px 0}
+.url-container input,.domain-container input[type="text"]{margin:0;width:100%}
+.wpml-container input{margin:0;margin-top:5px;width:50%}
+
+.ip2location-modal{display:none;position:fixed;z-index:1;padding-top:100px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:#000;background-color:rgba(0,0,0,0.4)}
+.ip2location-modal-content{background-color:#fefefe;margin:auto;padding:20px;border:1px solid #888;width:50%}
+.ip2location-close{color:#aaa;float:right;font-size:28px;font-weight:700}
+.ip2location-close:hover,.ip2location-close:focus{color:#000;text-decoration:none;cursor:pointer}
